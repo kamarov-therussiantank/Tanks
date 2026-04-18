@@ -28,7 +28,7 @@
 	"content_scripts": [
 		{
 			"matches": ["*://*.tanktrouble.com/*"],
-			"js": ["src/scripts/preload.js", "src/scripts/tankSprites.js"],
+			"js": ["src/scripts/preload.js", "src/scripts/tankSprites.js", "src/scripts/Constants.js"],
 			"run_at": "document_idle",
             "world": "MAIN"
 		}
