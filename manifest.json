@@ -1,7 +1,7 @@
 {
 	"name": "Textured Tanks",
 	"author": "kamarov",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"manifest_version": 3,
 	"description": "Improve visual appearance of tanks in mazes",
 	"icons": {
